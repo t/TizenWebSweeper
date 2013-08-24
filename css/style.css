@@ -1,0 +1,14 @@
+body {
+}
+
+.cell {
+  width: 18px;
+  height: 18px;
+  float:left;
+  display: inline;
+  text-align:center; 
+  font-size: 12px;
+  font-weight: bold; 
+  color:blue;  
+  background:transparent url('tile1.gif') no-repeat;
+}
