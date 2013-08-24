@@ -1,1 +1,1 @@
-MineSweeper written in RubyMotion
+MineSweeper written in HTML5 for Tizen
